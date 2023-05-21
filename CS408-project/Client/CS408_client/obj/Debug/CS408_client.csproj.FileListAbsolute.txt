@@ -1,0 +1,32 @@
+C:\Users\78mur\source\repos\CS408_client\CS408_client\bin\Debug\CS408_client.exe.config
+C:\Users\78mur\source\repos\CS408_client\CS408_client\bin\Debug\CS408_client.exe
+C:\Users\78mur\source\repos\CS408_client\CS408_client\bin\Debug\CS408_client.pdb
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.AssemblyReference.cache
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.Form1.resources
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.Properties.Resources.resources
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.GenerateResource.cache
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.CoreCompileInputs.cache
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.exe
+C:\Users\78mur\source\repos\CS408_client\CS408_client\obj\Debug\CS408_client.pdb
+C:\Users\rg159\Downloads\CS408_client\CS408_client\bin\Debug\CS408_client.exe.config
+C:\Users\rg159\Downloads\CS408_client\CS408_client\bin\Debug\CS408_client.exe
+C:\Users\rg159\Downloads\CS408_client\CS408_client\bin\Debug\CS408_client.pdb
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.AssemblyReference.cache
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.Form1.resources
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.Properties.Resources.resources
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.GenerateResource.cache
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.CoreCompileInputs.cache
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.exe
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.pdb
+C:\Users\rg159\Downloads\CS408_client\CS408_client\obj\Debug\CS408_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\bin\Debug\CS408_client.exe.config
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\bin\Debug\CS408_client.exe
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\bin\Debug\CS408_client.pdb
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.csproj.AssemblyReference.cache
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.Form1.resources
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.Properties.Resources.resources
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.csproj.GenerateResource.cache
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.csproj.CoreCompileInputs.cache
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.exe
+C:\Users\78mur\OneDrive\Рабочий стол\CS408-project\Client\CS408_client\obj\Debug\CS408_client.pdb
